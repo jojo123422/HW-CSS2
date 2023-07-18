@@ -1,0 +1,26 @@
+.first{
+
+border: solid blue 2px;
+width: 90px;
+text-align: center;
+height: 100px;
+background-color: bisque;
+color: black;
+border-radius: 40px;
+}
+
+
+.second{
+border:inset 2px red;
+width: 90px;
+height: 100px;
+text-align: center;
+border-radius: 30px;
+}
+.third{
+text-align: center;
+height: 100px;
+border-radius: 12px;
+border:dotted gainsboro 2px;
+width: 100px;
+}
